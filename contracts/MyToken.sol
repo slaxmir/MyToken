@@ -21,7 +21,7 @@ contract Mytoken {
 
     uint public totalSupply = 0;
     string public tokenName = "MIToken";
-    string public MITokenAbbr= "MIToken is just abcd";
+    string public MITokenAbbr= "MIToken";
     mapping(address => uint) public balance;
    /** This function then increases the total supply by that
     number and increases the balance of the address by that amount.
