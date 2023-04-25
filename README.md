@@ -55,6 +55,6 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 Once the contract is deployed, you can interact with it by calling the mint function and provide the total supply of coins and address. Then you can click on total supply to view the added tokens.Next click on burn function and provide the address and value to burn the tokens.
 
 ## Authors 
-Swarajya Lakshmi P
+Lakshmi P
 
 ## License
